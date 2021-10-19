@@ -1,0 +1,5 @@
+fastapi==0.70.0
+uvicorn==0.12.3  # an ASGI server on Heroku
+aiofiles==0.6.0 # for static files
+python-multipart==0.0.5 # html form support
+jinja2==2.11.2 # html template engine
